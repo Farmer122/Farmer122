@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farmer122
-- 👀 I’m interested in ML & Econometrics
-- 🌱 I’m currently learning Econometrics
+- 👀 I’m interested in ML, RL & Econometrics
+- 🌱 I’m currently learning Econometrics and RL
 - 👍🏿 I’m looking to collaborate on anything interesting
 - 📫 How to reach me = Discord Farmer2673
 
